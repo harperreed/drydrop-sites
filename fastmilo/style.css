@@ -1,0 +1,23 @@
+#bottom-nav{
+width: 100%;
+text-align: center;
+}
+a{
+color: #000;
+border: 0px;
+}
+a:hover{
+text-decoration: none;
+color: #000;
+}
+body{
+font-family: helvetica;
+background: #fff;
+}
+.pages{
+text-align: center;
+}
+
+.license{
+font-size: 10px;
+}
