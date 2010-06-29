@@ -1,0 +1,53 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	margin: 0px auto;
+	padding: 20px 10px;
+	font-family: helvetica, verdana, sans-serif;
+	text-align: center;
+	font-size: 62.5%;
+	padding-bottom:340px;
+	background:url(http://detour1999.com/test/curlee/img/curlee_is_awesome.jpg) bottom center no-repeat;
+}
+a img { border:none; }
+div.main { 
+	text-align:left; 
+	width:800px;
+	margin: 0px auto;
+	}
+#mainImg {
+	height:400px;
+	overflow:hidden;
+	text-align:center;
+}
+#mainImg a {
+	width:100%;
+}
+#mainImg a img {
+	margin: 0px auto;
+}
+div.img { 
+	text-align:center; 
+	width:100%;
+	padding: 10px auto;
+	}
+h1 {
+	color:Red; 
+	background:#ddd;
+	font-size:400%;
+	margin:20px 0 10px 0; 
+	padding:5px;
+}
+h2 {
+	color:Red; 
+	background:Yellow;
+	font-size:500%;
+	text-align:center;
+	margin:20px 0 10px 0; 
+	padding:5px;
+}
+
+p {font-size:140%;}
