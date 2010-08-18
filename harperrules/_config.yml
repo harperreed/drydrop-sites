@@ -1,0 +1,15 @@
+#
+# Jekyll configuration
+#
+#
+server: true
+destination: ./_site
+auto:        true
+server_port: 4000
+permalink:   pretty
+
+# Site configuration
+url:          http://www.harperrules.com
+title:        "Harper Rules, LLC"
+email:        harper@nata2.org # atom.xml: Author email
+#analytics_id: UA-70650-9 # Google Analytics ID: UA-xxx-xxx

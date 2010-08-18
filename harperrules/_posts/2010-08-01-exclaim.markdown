@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "excla.im"
+date: 2010-08-17 02:24:42 -06:00
+logo: http://excla.im/images/logo.gif
+url: http://excla.im
+--- 
+Excla.im is a jabber bot that allows you to update your twitter status very simply. All you need to get started is a jabber account (google talk will work as well) and a twitter account. Log in with your google account to associate the two.
+
+Excla.im was built in two parts. The first was the Google App Engine app to control account information and access. The second is a python jabber bot that uses an API exposed by the GAE app.
