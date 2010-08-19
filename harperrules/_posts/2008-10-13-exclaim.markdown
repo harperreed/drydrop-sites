@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: "excla.im"
-date: 2010-08-17 02:24:42 -06:00
 logo: http://excla.im/images/logo.gif
 url: http://excla.im
 --- 

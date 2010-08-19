@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: "Proximity Checkin"
-date: 2010-08-17 05:24:42 -06:00
 logo: http://www.proximitycheckin.com/images/proximitycheckin_logo.png
 url: http://www.proximitycheckin.com
 --- 

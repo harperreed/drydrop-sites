@@ -4,43 +4,50 @@
   
 <url>
   <loc>http://www.harperrules.com</loc>
-    <lastmod>2010-08-18T18:14:43-05:00</lastmod>
+    <lastmod>2010-08-18T22:20:55-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   
   <url>
-    <loc>http://www.harperrules.comhttp://www.supertrackr.com</loc>
-    <lastmod>Wed Aug 18 18:14:43 -0500 2010</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.harperrules.comhttp://www.proximitycheckin.com</loc>
-    <lastmod>Wed Aug 18 18:14:43 -0500 2010</lastmod>
+    <lastmod>Wed Aug 18 22:20:55 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.harperrules.comhttp://www.supertrackr.com</loc>
+    <lastmod>Wed Aug 18 22:20:55 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.harperrules.comhttp://www.ctaalerts.com</loc>
+    <lastmod>Wed Aug 18 22:20:55 -0500 2010</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.harperrules.comhttp://excla.im</loc>
-    <lastmod>Wed Aug 18 18:14:43 -0500 2010</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.harperrules.comhttp://excla.im</loc>
-    <lastmod>Wed Aug 18 18:14:43 -0500 2010</lastmod>
+    <lastmod>Wed Aug 18 22:20:55 -0500 2010</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.harperrules.comhttp://www.chicagoalerts.org</loc>
-    <lastmod>Wed Aug 18 18:14:43 -0500 2010</lastmod>
+    <lastmod>Wed Aug 18 22:20:55 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.harperrules.comhttp://excla.im</loc>
+    <lastmod>Wed Aug 18 22:20:55 -0500 2010</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>

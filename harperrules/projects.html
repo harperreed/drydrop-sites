@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<section id="content" class="body">
+<hgroup>
+<h2>Projects</h2>
+</hgroup>
+<ol id="posts-list" class="hfeed">
+
+{% for post in site.posts limit:15 %}
+<li>
+<article class="hentry">
+<header>
+<h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark" title="Permalink to this {{ post.title }}" target="_blank">{{ post.title }}</a></h2>
+</header>
+<div class="entry-content">
+<figure>
+<a target="_blank" href="{{ post.url }}"><img src="{{ post.logo }}" class="right" alt="{{ post.title }}" /></a>
+</figure
+{{ post.content }}
+</div>
+</article>
+</li>
+{% endfor %}
+
+</ol>
+</section>
