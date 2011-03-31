@@ -1,16 +1,8 @@
 ---
 layout: default
 ---
-{% for post in site.posts limit:1 %}
-    <aside id="featured" class="body"><article>
-        <hgroup>
-            <h2>Featured Project</h2>
-        <figure>
-        <a href="{{ post.url }}" target="_blank"><img src="{{ post.logo }}" alt="{{ post.title }}" /></a>
-        </figure>
-            <h3><a target="_blank" href="{{ post.url }}">{{ post.title }}</a></h3>
-        </hgroup>
-        {{ post.content }}
-        </article>
-    </aside><!-- /#featured -->
+<ul>
+{% for post in site.posts  %}
+<li><a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>

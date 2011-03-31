@@ -120,9 +120,31 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	padding: 2.5em 0 0 0;
 }
 
+#banner-light{
+	margin: 0 auto;
+
+}
+
+#banner-light ul{
+  padding: 10px;
+list-style: none;
+  
+
+}
+
+#banner-light h1{
+  	color: #000;
+		display: block;
+		font-weight: bold;
+		margin: 0 0 .6em .2em;
+		text-decoration: none;
+		width: 427px;
+}
+
+
 	/* Banner */
-	#banner h1 {font-size: 3.571em; line-height: .6;}
-	#banner h1 a:link, #banner h1 a:visited {
+	#banner h1, #banner-light h1 {font-size: 3.571em; line-height: .6;}
+	#banner h1 a:link, #banner h1 a:visited,#banner-light h1 a:link {
 		color: #000;
 		display: block;
 		font-weight: bold;
